@@ -1,0 +1,13 @@
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\JoinAndSleep\bin\Debug\netcoreapp3.1\JoinAndSleep.exe
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\JoinAndSleep\bin\Debug\netcoreapp3.1\JoinAndSleep.deps.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\JoinAndSleep\bin\Debug\netcoreapp3.1\JoinAndSleep.runtimeconfig.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\JoinAndSleep\bin\Debug\netcoreapp3.1\JoinAndSleep.runtimeconfig.dev.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\JoinAndSleep\bin\Debug\netcoreapp3.1\JoinAndSleep.dll
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\JoinAndSleep\bin\Debug\netcoreapp3.1\JoinAndSleep.pdb
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\JoinAndSleep\obj\Debug\netcoreapp3.1\JoinAndSleep.csprojAssemblyReference.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\JoinAndSleep\obj\Debug\netcoreapp3.1\JoinAndSleep.AssemblyInfoInputs.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\JoinAndSleep\obj\Debug\netcoreapp3.1\JoinAndSleep.AssemblyInfo.cs
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\JoinAndSleep\obj\Debug\netcoreapp3.1\JoinAndSleep.csproj.CoreCompileInputs.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\JoinAndSleep\obj\Debug\netcoreapp3.1\JoinAndSleep.dll
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\JoinAndSleep\obj\Debug\netcoreapp3.1\JoinAndSleep.pdb
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\JoinAndSleep\obj\Debug\netcoreapp3.1\JoinAndSleep.genruntimeconfig.cache

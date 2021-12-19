@@ -1,0 +1,13 @@
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LambdaExpressionsAndCapturedVariables\bin\Debug\netcoreapp3.1\LambdaExpressionsAndCapturedVariables.exe
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LambdaExpressionsAndCapturedVariables\bin\Debug\netcoreapp3.1\LambdaExpressionsAndCapturedVariables.deps.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LambdaExpressionsAndCapturedVariables\bin\Debug\netcoreapp3.1\LambdaExpressionsAndCapturedVariables.runtimeconfig.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LambdaExpressionsAndCapturedVariables\bin\Debug\netcoreapp3.1\LambdaExpressionsAndCapturedVariables.runtimeconfig.dev.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LambdaExpressionsAndCapturedVariables\bin\Debug\netcoreapp3.1\LambdaExpressionsAndCapturedVariables.dll
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LambdaExpressionsAndCapturedVariables\bin\Debug\netcoreapp3.1\LambdaExpressionsAndCapturedVariables.pdb
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LambdaExpressionsAndCapturedVariables\obj\Debug\netcoreapp3.1\LambdaExpressionsAndCapturedVariables.csprojAssemblyReference.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LambdaExpressionsAndCapturedVariables\obj\Debug\netcoreapp3.1\LambdaExpressionsAndCapturedVariables.AssemblyInfoInputs.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LambdaExpressionsAndCapturedVariables\obj\Debug\netcoreapp3.1\LambdaExpressionsAndCapturedVariables.AssemblyInfo.cs
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LambdaExpressionsAndCapturedVariables\obj\Debug\netcoreapp3.1\LambdaExpressionsAndCapturedVariables.csproj.CoreCompileInputs.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LambdaExpressionsAndCapturedVariables\obj\Debug\netcoreapp3.1\LambdaExpressionsAndCapturedVariables.dll
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LambdaExpressionsAndCapturedVariables\obj\Debug\netcoreapp3.1\LambdaExpressionsAndCapturedVariables.pdb
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LambdaExpressionsAndCapturedVariables\obj\Debug\netcoreapp3.1\LambdaExpressionsAndCapturedVariables.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Passing Data to a Thread\bin\Debug\netcoreapp3.1\Passing Data to a Thread.exe
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Passing Data to a Thread\bin\Debug\netcoreapp3.1\Passing Data to a Thread.deps.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Passing Data to a Thread\bin\Debug\netcoreapp3.1\Passing Data to a Thread.runtimeconfig.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Passing Data to a Thread\bin\Debug\netcoreapp3.1\Passing Data to a Thread.runtimeconfig.dev.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Passing Data to a Thread\bin\Debug\netcoreapp3.1\Passing Data to a Thread.dll
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Passing Data to a Thread\bin\Debug\netcoreapp3.1\Passing Data to a Thread.pdb
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Passing Data to a Thread\obj\Debug\netcoreapp3.1\Passing Data to a Thread.csprojAssemblyReference.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Passing Data to a Thread\obj\Debug\netcoreapp3.1\Passing Data to a Thread.AssemblyInfoInputs.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Passing Data to a Thread\obj\Debug\netcoreapp3.1\Passing Data to a Thread.AssemblyInfo.cs
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Passing Data to a Thread\obj\Debug\netcoreapp3.1\Passing Data to a Thread.csproj.CoreCompileInputs.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Passing Data to a Thread\obj\Debug\netcoreapp3.1\Passing Data to a Thread.dll
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Passing Data to a Thread\obj\Debug\netcoreapp3.1\Passing Data to a Thread.pdb
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Passing Data to a Thread\obj\Debug\netcoreapp3.1\Passing Data to a Thread.genruntimeconfig.cache

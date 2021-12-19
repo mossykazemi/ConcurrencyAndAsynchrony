@@ -1,0 +1,13 @@
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Signaling\bin\Debug\netcoreapp3.1\Signaling.exe
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Signaling\bin\Debug\netcoreapp3.1\Signaling.deps.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Signaling\bin\Debug\netcoreapp3.1\Signaling.runtimeconfig.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Signaling\bin\Debug\netcoreapp3.1\Signaling.runtimeconfig.dev.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Signaling\bin\Debug\netcoreapp3.1\Signaling.dll
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Signaling\bin\Debug\netcoreapp3.1\Signaling.pdb
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Signaling\obj\Debug\netcoreapp3.1\Signaling.csprojAssemblyReference.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Signaling\obj\Debug\netcoreapp3.1\Signaling.AssemblyInfoInputs.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Signaling\obj\Debug\netcoreapp3.1\Signaling.AssemblyInfo.cs
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Signaling\obj\Debug\netcoreapp3.1\Signaling.csproj.CoreCompileInputs.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Signaling\obj\Debug\netcoreapp3.1\Signaling.dll
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Signaling\obj\Debug\netcoreapp3.1\Signaling.pdb
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Signaling\obj\Debug\netcoreapp3.1\Signaling.genruntimeconfig.cache

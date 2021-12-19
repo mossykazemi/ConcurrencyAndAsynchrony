@@ -1,0 +1,13 @@
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache

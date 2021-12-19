@@ -1,0 +1,13 @@
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LocalVersusSharedState\bin\Debug\netcoreapp3.1\LocalVersusSharedState.exe
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LocalVersusSharedState\bin\Debug\netcoreapp3.1\LocalVersusSharedState.deps.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LocalVersusSharedState\bin\Debug\netcoreapp3.1\LocalVersusSharedState.runtimeconfig.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LocalVersusSharedState\bin\Debug\netcoreapp3.1\LocalVersusSharedState.runtimeconfig.dev.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LocalVersusSharedState\bin\Debug\netcoreapp3.1\LocalVersusSharedState.dll
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LocalVersusSharedState\bin\Debug\netcoreapp3.1\LocalVersusSharedState.pdb
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LocalVersusSharedState\obj\Debug\netcoreapp3.1\LocalVersusSharedState.csprojAssemblyReference.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LocalVersusSharedState\obj\Debug\netcoreapp3.1\LocalVersusSharedState.AssemblyInfoInputs.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LocalVersusSharedState\obj\Debug\netcoreapp3.1\LocalVersusSharedState.AssemblyInfo.cs
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LocalVersusSharedState\obj\Debug\netcoreapp3.1\LocalVersusSharedState.csproj.CoreCompileInputs.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LocalVersusSharedState\obj\Debug\netcoreapp3.1\LocalVersusSharedState.dll
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LocalVersusSharedState\obj\Debug\netcoreapp3.1\LocalVersusSharedState.pdb
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\LocalVersusSharedState\obj\Debug\netcoreapp3.1\LocalVersusSharedState.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Blocking\bin\Debug\netcoreapp3.1\Blocking.exe
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Blocking\bin\Debug\netcoreapp3.1\Blocking.deps.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Blocking\bin\Debug\netcoreapp3.1\Blocking.runtimeconfig.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Blocking\bin\Debug\netcoreapp3.1\Blocking.runtimeconfig.dev.json
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Blocking\bin\Debug\netcoreapp3.1\Blocking.dll
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Blocking\bin\Debug\netcoreapp3.1\Blocking.pdb
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Blocking\obj\Debug\netcoreapp3.1\Blocking.csprojAssemblyReference.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Blocking\obj\Debug\netcoreapp3.1\Blocking.AssemblyInfoInputs.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Blocking\obj\Debug\netcoreapp3.1\Blocking.AssemblyInfo.cs
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Blocking\obj\Debug\netcoreapp3.1\Blocking.csproj.CoreCompileInputs.cache
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Blocking\obj\Debug\netcoreapp3.1\Blocking.dll
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Blocking\obj\Debug\netcoreapp3.1\Blocking.pdb
+C:\Users\m.kazemi\RiderProjects\ThreadExamples\Blocking\obj\Debug\netcoreapp3.1\Blocking.genruntimeconfig.cache
