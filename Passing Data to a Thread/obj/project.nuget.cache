@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mDwQ7xAtNCcq4Ug7o7x1hZTcWQV1t9IW9lCCz2MNytZ2YidRxlJGpvSACbL/RkUDfCtDZzUjL91MPeqGP+dU7w==",
+  "dgSpecHash": "1mB2A+DtHLPT9JWHm8Ajw9SvI6aqfKsh541qygPoq/RQSKErjo12Ad0XH0pebFWuYTfutGsm7DNeeLaz+EGN8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\Passing Data to a Thread\\Passing Data to a Thread.csproj",
+  "projectFilePath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\Passing Data to a Thread\\Passing Data to a Thread.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

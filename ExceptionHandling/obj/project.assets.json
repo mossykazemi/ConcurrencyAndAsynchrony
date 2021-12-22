@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\ExceptionHandling\\ExceptionHandling.csproj",
+      "projectUniqueName": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\ExceptionHandling\\ExceptionHandling.csproj",
       "projectName": "ExceptionHandling",
-      "projectPath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\ExceptionHandling\\ExceptionHandling.csproj",
+      "projectPath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\ExceptionHandling\\ExceptionHandling.csproj",
       "packagesPath": "C:\\Users\\m.kazemi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\ExceptionHandling\\obj\\",
+      "outputPath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\ExceptionHandling\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\m.kazemi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9KBuTh064Kok0urvy+0llSSvBbGPYd+Mdq0Jc2ie+s7W/aVnqk2mMPNbW1VCoEx0ik9fn2HGHryIlH/t8guZJg==",
+  "dgSpecHash": "eb5FIuEBKB+MJVzecyt8mfRsaa8snUwwKAn526Mct5NTj+41tANr7kth4ovz0HnkDHtlKl2MuE6VeNlOuae5Ow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\LambdaExpressionsAndCapturedVariables\\LambdaExpressionsAndCapturedVariables.csproj",
+  "projectFilePath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\LambdaExpressionsAndCapturedVariables\\LambdaExpressionsAndCapturedVariables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

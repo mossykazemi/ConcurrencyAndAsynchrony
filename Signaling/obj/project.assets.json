@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\Signaling\\Signaling.csproj",
+      "projectUniqueName": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\Signaling\\Signaling.csproj",
       "projectName": "Signaling",
-      "projectPath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\Signaling\\Signaling.csproj",
+      "projectPath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\Signaling\\Signaling.csproj",
       "packagesPath": "C:\\Users\\m.kazemi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\Signaling\\obj\\",
+      "outputPath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\Signaling\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\m.kazemi\\AppData\\Roaming\\NuGet\\NuGet.Config",

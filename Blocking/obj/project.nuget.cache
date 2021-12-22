@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Su6+AYflq6UwzH2yuhb664X2Zzx259Us+7AKIXT17qav9sSZglyxjrO0vDDT0aMHWnmKPVEn/oJHxwOpl9wLyQ==",
+  "dgSpecHash": "d+48md9oJZNzxsVT/xzFW7pz37rV41OaXz+RQs172wSOuEtaYjU+AProEEinrsf/UUBCaV2az/w5bqRiclpDxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\Blocking\\Blocking.csproj",
+  "projectFilePath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\Blocking\\Blocking.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

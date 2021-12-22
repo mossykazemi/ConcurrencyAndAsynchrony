@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\LambdaExpressionsAndCapturedVariables\\LambdaExpressionsAndCapturedVariables.csproj",
+      "projectUniqueName": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\LambdaExpressionsAndCapturedVariables\\LambdaExpressionsAndCapturedVariables.csproj",
       "projectName": "LambdaExpressionsAndCapturedVariables",
-      "projectPath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\LambdaExpressionsAndCapturedVariables\\LambdaExpressionsAndCapturedVariables.csproj",
+      "projectPath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\LambdaExpressionsAndCapturedVariables\\LambdaExpressionsAndCapturedVariables.csproj",
       "packagesPath": "C:\\Users\\m.kazemi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\LambdaExpressionsAndCapturedVariables\\obj\\",
+      "outputPath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\LambdaExpressionsAndCapturedVariables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\m.kazemi\\AppData\\Roaming\\NuGet\\NuGet.Config",

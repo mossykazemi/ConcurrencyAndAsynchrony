@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/ejIrnevegdI4Hfy1A41iKTEVTMfnI7d/SZcgx+Zv9U9DVlrcSvzAxX36dc4fPpUK0aP+o6h/kPfac+c5Vi+ig==",
+  "dgSpecHash": "ErI6UlHrvoWuGP9xL2n4Qq2/HvY5vm109IQNiFObnevMD00M8uvJKw52YGDy7XdQzrx6F3qqejcWB2Jp2L0ZDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\LocalVersusSharedState\\LocalVersusSharedState.csproj",
+  "projectFilePath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\LocalVersusSharedState\\LocalVersusSharedState.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SsiDDkU7cSVCG/yN/8rtamXhH70lowJp5p+2M7FnyJRg+b/usRU6I7e3/KX0cztDsCuBw0NM+FLa8vO0rF/UOg==",
+  "dgSpecHash": "8YeMltnM9ZuO4t+0npsbe30CDNZp8rIqecJ2Xh8lYEeo0jlP288IHNSYY+9LGI4ShTGzLs/eFZjlDmpofnmw8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\JoinAndSleep\\JoinAndSleep.csproj",
+  "projectFilePath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\JoinAndSleep\\JoinAndSleep.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

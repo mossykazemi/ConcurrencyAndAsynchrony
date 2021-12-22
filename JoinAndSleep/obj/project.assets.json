@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\JoinAndSleep\\JoinAndSleep.csproj",
+      "projectUniqueName": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\JoinAndSleep\\JoinAndSleep.csproj",
       "projectName": "JoinAndSleep",
-      "projectPath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\JoinAndSleep\\JoinAndSleep.csproj",
+      "projectPath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\JoinAndSleep\\JoinAndSleep.csproj",
       "packagesPath": "C:\\Users\\m.kazemi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\JoinAndSleep\\obj\\",
+      "outputPath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\JoinAndSleep\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\m.kazemi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zElWaImFM0TLZVujiWokWlmB2gaeucCbefwU8qZoGOBJmVFv2CPO1zQVtjR3xJ8d0ufZHwmyNZnjeqzkmWLnlg==",
+  "dgSpecHash": "SspOXm/5c041pDcLI33+RZj449tr0VyUa/I6uLSU9W3QqAEwP8FDI0rvskudHxj0icXJbhHnl3FTQ/saYzq++w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\Signaling\\Signaling.csproj",
+  "projectFilePath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\Signaling\\Signaling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

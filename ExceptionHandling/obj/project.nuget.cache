@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ViS6x7NiwHxvH7ugyp4as4mDWzVa6V1RghNoc5o3ummjdiRyF4l4O1PR3WjFL0dcOSwqekz1HETGpHHpuGUc3g==",
+  "dgSpecHash": "D1I+vJSL2MLvLyfxg1tWRjDIna6XbfLUXSjRYhPSStAaCogtGYlJqRRjCWhg8ydE+0Uhzjdt1cYPqQgr7ceBRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\ExceptionHandling\\ExceptionHandling.csproj",
+  "projectFilePath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\ExceptionHandling\\ExceptionHandling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

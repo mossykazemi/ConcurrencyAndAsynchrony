@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "Except
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Signaling", "Signaling\Signaling.csproj", "{8EF08B3B-69B7-42DF-8D4D-5410AB4C79E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousCallGraphExecution", "AsynchronousCallGraphExecution\AsynchronousCallGraphExecution.csproj", "{ABAFE7BB-4530-4CB1-9214-2E16BB8BC0DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1", "Example1\Example1.csproj", "{C19D79BC-A2E7-40E8-9E45-10D04890F817}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +58,13 @@ Global
 		{8EF08B3B-69B7-42DF-8D4D-5410AB4C79E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EF08B3B-69B7-42DF-8D4D-5410AB4C79E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EF08B3B-69B7-42DF-8D4D-5410AB4C79E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABAFE7BB-4530-4CB1-9214-2E16BB8BC0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAFE7BB-4530-4CB1-9214-2E16BB8BC0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAFE7BB-4530-4CB1-9214-2E16BB8BC0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAFE7BB-4530-4CB1-9214-2E16BB8BC0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19D79BC-A2E7-40E8-9E45-10D04890F817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19D79BC-A2E7-40E8-9E45-10D04890F817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19D79BC-A2E7-40E8-9E45-10D04890F817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19D79BC-A2E7-40E8-9E45-10D04890F817}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

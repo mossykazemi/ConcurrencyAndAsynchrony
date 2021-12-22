@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\LocalVersusSharedState\\LocalVersusSharedState.csproj": {}
+    "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\LocalVersusSharedState\\LocalVersusSharedState.csproj": {}
   },
   "projects": {
-    "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\LocalVersusSharedState\\LocalVersusSharedState.csproj": {
+    "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\LocalVersusSharedState\\LocalVersusSharedState.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\LocalVersusSharedState\\LocalVersusSharedState.csproj",
+        "projectUniqueName": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\LocalVersusSharedState\\LocalVersusSharedState.csproj",
         "projectName": "LocalVersusSharedState",
-        "projectPath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\LocalVersusSharedState\\LocalVersusSharedState.csproj",
+        "projectPath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\LocalVersusSharedState\\LocalVersusSharedState.csproj",
         "packagesPath": "C:\\Users\\m.kazemi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\LocalVersusSharedState\\obj\\",
+        "outputPath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\LocalVersusSharedState\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\m.kazemi\\AppData\\Roaming\\NuGet\\NuGet.Config",

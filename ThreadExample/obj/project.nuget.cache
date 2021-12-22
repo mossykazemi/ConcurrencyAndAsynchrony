@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aP0m0Y9ZVLjabjlIymfQOf9iaj32z4PeKPl9+lmUEIAu5/vodzal4YyODpfsD2VToLCIS2YcAF+302+0C64HxQ==",
+  "dgSpecHash": "8rZxXbIctNyem5+wAUVsoldN52xKBvXl2uDCAFQms2DMmC0zynjhP/fOcu7m4Hyr6Q1xFOB1NOjRd1L82VPQVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\ThreadExample\\ThreadExample.csproj",
+  "projectFilePath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\ThreadExample\\ThreadExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

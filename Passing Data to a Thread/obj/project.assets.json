@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\Passing Data to a Thread\\Passing Data to a Thread.csproj",
+      "projectUniqueName": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\Passing Data to a Thread\\Passing Data to a Thread.csproj",
       "projectName": "Passing Data to a Thread",
-      "projectPath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\Passing Data to a Thread\\Passing Data to a Thread.csproj",
+      "projectPath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\Passing Data to a Thread\\Passing Data to a Thread.csproj",
       "packagesPath": "C:\\Users\\m.kazemi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.kazemi\\RiderProjects\\ThreadExamples\\Passing Data to a Thread\\obj\\",
+      "outputPath": "C:\\Users\\m.kazemi\\Desktop\\ConcurrencyAndAsynchrony\\Passing Data to a Thread\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\m.kazemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
